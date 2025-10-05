@@ -1,5 +1,0 @@
-fastapi==0.109.0
-uvicorn==0.26.1
-sqlalchemy==2.0.22
-pydantic==2.6.2
-email-validator==2.1.0
